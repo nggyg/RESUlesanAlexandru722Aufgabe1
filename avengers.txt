@@ -1,0 +1,34 @@
+1#Iron Man#Power#Retrieve Power Stone#hard#30#win
+2#Captain America#Power#Defeat Ronan#medium#15#win
+3#Thor#Power#Retrieve Orb on Morag#easy#5#fail
+4#Black Widow#Space#Retrieve Tesseract#hard#30#win
+5#Hawkeye#Space#Infiltrate Sakaar#medium#15#win
+6#Hulk#Space#Fight the Grandmaster's Champion#hard#30#fail
+7#Scarlet Witch#Reality#Rescue Vision#hard#30#win
+8#Vision#Reality#Keep the Stone safe from Thanos#medium#15#fail
+9#Doctor Strange#Time#Battle Dormammu#hard#30#win
+10#Spider-Man#Time#Stop Vulture's Robbery#medium#15#win
+11#Ant-Man#Mind#Retrieve Mind Stone from Hydra#hard#30#fail
+12#Wasp#Mind#Stop Yellowjacket#medium#15#win
+13#Black Panther#Soul#Retrieve Soul Stone#hard#30#win
+14#Falcon#Soul#Defeat Red Skull#medium#15#win
+15#Iron Man#Reality#Rescue Doctor Strange#hard#30#win
+16#Captain America#Time#Battle Kaecilius#medium#15#win
+17#Thor#Mind#Stop Hela's invasion#hard#30#win
+18#Black Widow#Soul#Rescue Hawkeye#medium#15#win
+19#Hawkeye#Power#Retrieve Power Stone from Nova Corps#easy#5#fail
+20#Hulk#Mind#Fight the Leader#hard#30#fail
+21#Scarlet Witch#Time#Battle Ebony Maw#medium#15#win
+22#Vision#Power#Protect the Time Stone#hard#30#win
+23#Doctor Strange#Mind#Retrieve Mind Stone from Thanos#hard#30#fail
+24#Spider-Man#Space#Rescue Gamora#medium#15#win
+25#Ant-Man#Power#Retrieve Power Stone from Quill#easy#5#fail
+26#Wasp#Space#Retrieve the Aether#hard#35#win
+27#Black Panther#Reality#Rescue the Asgardians#medium#5#win
+28#Falcon#Mind#Battle Ultron#hard#30#fail
+29#Iron Man#Soul#Rescue Gamora#medium#15#win
+30#Captain America#Space#Infiltrate the Dark Aster#easy#5#fail
+31#Thor#Reality#Battle the Dark Elves#hard#30#win
+32#Black Widow#Time#Stop Loki's invasion#medium#15#win
+33#Hawkeye#Reality#Rescue Korg#hard#30#fail
+34#Hulk#Space#Infiltrate the Sanctuary II#medium#15#win
