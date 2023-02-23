@@ -1,0 +1,14 @@
+Iron Man&75
+Black Widow&60
+Thor&55
+Wasp&50
+Scarlet Witch&45
+Black Panther&35
+Spider-Man&30
+Captain America&25
+Vision&15
+Doctor Strange&0
+Falcon&-15
+Hawkeye&-20
+Ant-Man&-35
+Hulk&-45
